@@ -1,18 +1,18 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Adarsh Kumar Dash
+subtitle: Cavendish Astrophysics
+email: akd52@cam.ac.uk
+description: Experimental cosmologist trying to detect the Global 21-cm signal from the Cosmic Dawn and Epoch of Reionisation
 remote_theme: andrewbanchich/forty-jekyll-theme
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://adarsh242k.github.io/ # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Astrophysics Group, Cavendish Laboratory, University of Cambridge, J. J. Thomson Avenue
+city: Cambridge
+state: 
+zip_code: CB3 0US
+country: United Kingdom
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -23,12 +23,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/adarsh242k
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/adarsh-kumar-dash-250b58220/
+  Twitter: 
   Facebook:
   Slack:
 
