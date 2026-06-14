@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
-image: null
+landing-title: 'Adarsh Kumar Dash'
+description: Experimental cosmologist trying to detect the Global 21-cm signal from the Cosmic Dawn and Epoch of Reionisation
+image: assets/images/akd_pic.jpeg
 author: null
 show_tile: false
 ---
